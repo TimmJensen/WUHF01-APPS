@@ -5,7 +5,7 @@
 - Varighed: 10 dage
 - Faget skal bestås
 - Vi anvender React-Native og Expo, samt VS Code
-- •	Vi emulerer i browseren og anvender egne mobiltelefoner (frivilligt)
+- Vi emulerer i browseren og anvender egne mobiltelefoner (frivilligt)
 - Undervisningen består af en række oplæg, øvelser og en afsluttende opgave
 - Målet er at alle selvstændigt kan udvikle en Native App vha. VS Code til IOS og Android
 - Bekendtgørelsens mål skal opfyldes
