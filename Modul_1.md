@@ -1,6 +1,6 @@
 # Modul 1
 ## Indhold
-Vi skal se på kende til React-Native Apps og oprette de første Apps
+Vi skal kende til React-Native Apps og oprette de første Apps
 
 Efter en præsentation af teknologi og værktøjer laver vi den første opgave.
 
