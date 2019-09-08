@@ -25,10 +25,10 @@
 - Udvikling til IOS og Android (og simulering web)
 
 #### Expo
-En rundtur i expo.io
+En rundtur i http://www.expo.io
 
 #### Snack
-snack.expo.io
+http://www.snack.expo.io
 
 Snack.expo.io
 #### Gennemgang af koden
