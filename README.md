@@ -1,5 +1,7 @@
 # WUHF01-APPS
 
+Om faget
+
 ## Noter til undervisningen
 
 ### Opgave 1
