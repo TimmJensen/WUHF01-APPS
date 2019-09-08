@@ -30,7 +30,6 @@ En rundtur i http://www.expo.io
 #### Snack
 http://www.snack.expo.io
 
-Snack.expo.io
 #### Gennemgang af koden
 - Import
 - Export class – lidt om class og extends	
