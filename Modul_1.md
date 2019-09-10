@@ -97,6 +97,7 @@ https://facebook.github.io/react-native/docs/handling-touches
 ### Input på egen hånd
 Undersøg og afprøv input både med `react-native` og `react-native-elements`
 
+
 ## Opgave 1 fortsat - Stopwatch med knapper
   Vi fortsætter med opgaven ”Stopwatch” hvor vi nu sætter knapper på, så vi kan starte, pause, stoppe og nulstille tiden 
 
