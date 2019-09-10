@@ -64,5 +64,5 @@ ES7 React/Redux/React-Native/JS Snippets
 ## Opgave 1 - Stopwatch
 - Opret en App kaldet ”Stopwatch”, som tæller minutter og sekunder.
 - Tag evt. udgangspunkt i http://www.reactnativeexpress.com/component_api
-- Eksporter koden til en controller
+- Eksporter koden til et Component
 - Den må gerne se lidt godt ud. 
