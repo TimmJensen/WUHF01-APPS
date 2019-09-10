@@ -33,7 +33,7 @@ http://www.snack.expo.io
 http://www.reactnativeexpress.com
 - Quickstart
 - Opret en mappe kaldet eksempler
-- Ny App med `npm expo init MyApp` 
+- Ny App med `expo init MyApp` 
 
 #### Class i React
 http://www.reactnativeexpress.com/classes
