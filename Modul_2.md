@@ -7,6 +7,7 @@ http://www.reactnativeexpress.com/flexbox
 
 https://medium.com/wix-engineering/the-full-react-native-layout-cheat-sheet-a4147802405c
 
+<<<<<<< HEAD
 ## Forøvelse - Udskriv data fra et array
 Du får her et lille array med objekter, som du skal udskrive i din app.
 `Vi ser på det sammmen bagefter`
@@ -17,5 +18,8 @@ Du får her et lille array med objekter, som du skal udskrive i din app.
         { id: 3, name: 'Fedtmule' }
     ]
 ```
+=======
+## Forøvelse - udskriv...
+
 
 jo, der kommer mere :)
