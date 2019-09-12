@@ -24,8 +24,15 @@ Du får her et lille array med objekter, som du skal udskrive i din app.
 ### Flatlist
 http://www.reactnativeexpress.com/flatlist
 
+https://facebook.github.io/react-native/docs/flatlist
 ### Sectionlist
 http://www.reactnativeexpress.com/sectionlist
 
-https://facebook.github.io/react-native/docs/flatlist
+
+### Fetch
+https://facebook.github.io/react-native/docs/network
+
+https://randomuser.me/ (var nede sidst jeg kiggede)
+
+### Opgave Weather App... det finder vi ud af sammen...
 
