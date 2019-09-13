@@ -34,5 +34,16 @@ https://facebook.github.io/react-native/docs/network
 
 https://randomuser.me/ (var nede sidst jeg kiggede)
 
-### Opgave Weather App... det finder vi ud af sammen...
+### Opgave Weather App eller tilsvarende
+Fremstil en app som henter data fra et ekstern kilde.
+Du kan vælge at lave en app som viser vejret på en eller flere destinationer.
+Du kan også lave en app efter eget valg, men de skal begge demonstrere det vi har været igennem og gerne mere til.
+Herunder:
+- Anvend data vha. fetch
+- Anvend props og state
+- Anvend egne components
+- Anvendelse af Core Components (View, Button, StyleSheet, ... etc.)
+- Demonstrer anvendelse af Class
+  
+
 

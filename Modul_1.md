@@ -10,7 +10,7 @@ Men først en gennemgang med eksempeler.
 - Performance
 - Ressourcer med fetch
 - React og React-Native
-- Udvikling til IOS og Android (og simulering web)
+- Udvikling til IOS og Android (og emulering web)
 
 #### Expo
 En rundtur i http://www.expo.io
@@ -24,7 +24,7 @@ http://www.snack.expo.io
 - Render()
 - View
 - Text
-- Custom Controllers
+- Custom Components
 - Styles, syntax og Flexbox
 - Run (on device) kræver login og download af Expo på mobilen. Do-it!
 - Export – Hmmmm…. Opret hellere et nyt projekt i VS Code
