@@ -13,6 +13,6 @@ https://reactnavigation.org/docs/en/hello-react-navigation.html
 
 ##### Et mindre eksempel
 
-[github](https://github.com/frankgoldmann/ReactNaviveTabNavigation)
+https://github.com/frankgoldmann/ReactNaviveTabNavigation
 
 [icons](https://expo.github.io/vector-icons/) til brug i App'en
