@@ -16,3 +16,5 @@ https://reactnavigation.org/docs/en/hello-react-navigation.html
 https://github.com/frankgoldmann/ReactNaviveTabNavigation
 
 [icons](https://expo.github.io/vector-icons/) til brug i App'en
+
+Opgave
